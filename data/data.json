@@ -1,0 +1,38 @@
+[
+{
+  "id":1,
+  "name": "ĐIện thoại",
+  "image": "/imgs/FPTshop/apple.png",
+  "Link": "apple.html"
+},
+{
+  "id": 2,
+"name": "máy ",
+"image": "/imgs/FPTshop/apple.png",
+"Link": "apple.html"
+},
+{
+  "id": 3,
+"name": "",
+"image": "/imgs/FPTshop/apple.png",
+"Link": "apple.html"
+},
+  {
+    "id": 4,
+    "name": "ĐIện thoại",
+    "image": "/imgs/FPTshop/apple.png",
+    "Link": "apple.html"
+  },
+  {
+    "id": 5,
+    "name": "ĐIện thoại",
+    "image": "/imgs/FPTshop/apple.png",
+    "Link": "apple.html"
+  },
+  {
+    "id": 6,
+    "name": "ĐIện thoại",
+    "image": "/imgs/FPTshop/apple.png",
+    "Link": "apple.html"
+  }
+  ]
